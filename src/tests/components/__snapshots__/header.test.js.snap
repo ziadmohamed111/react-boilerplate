@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render header correctly 1`] = `
+<header
+  className="header"
+>
+  <div
+    className="content-container"
+  >
+    <div
+      className="header_content"
+    >
+      <[object Object]
+        className="header__title"
+        to="/dashboard"
+      >
+        <h1>
+          Bolierplate
+        </h1>
+      </[object Object]>
+      <button
+        className="button-inline"
+        onClick={[Function]}
+      >
+        Logout
+      </button>
+    </div>
+  </div>
+</header>
+`;
